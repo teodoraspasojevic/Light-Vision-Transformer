@@ -11,6 +11,5 @@ Efficient Attention Mechanisms: Implements optimized attention mechanisms to mai
 Flexible and Modular Codebase: Easy to customize and extend for various image recognition tasks.
 
 ## Repository Contents
-models/: Contains the implementation of the LightViT architecture.
-scripts/: Training and inference scripts for using the LightViT model.
-data/: Data loading and preprocessing utilities.
+vision_transformer.py: The core implementation of the Light Vision Transformer model.
+vision_transformer_colab.ipynb: A Jupyter notebook for training the LightViT model on Google Colab.
